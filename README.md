@@ -3,7 +3,7 @@
 ETU1254
 
 Liens du site: 
-FO: https://saveplanetfromgw.yj.lu/rechauffementclimatique/
-BO: https://saveplanetfromgw.yj.lu/rechauffementclimatique/BackOffice
+FO: http://rts.epizy.com/rechauffementClimatique/
+BO: http://rts.epizy.com/rechauffementClimatique/BackOffice/
 user: johndoe@gmail.com
 mdp: motdepasse123
